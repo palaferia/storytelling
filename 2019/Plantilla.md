@@ -4,7 +4,7 @@
 
 Nombre del Equipo: PALAFERIA
 
-Proyecto 
+Proyecto  H3
 
 Resumen: Avelina, una mujer de 65 años, se apuntaa clases de informática y descubre el mundo hacker. Entonces pasa a ser Hackvelina y a enterarse y compartir todos los secretos de su barrio, metiéndose en muchos líos de los que necesita salir.   
 
@@ -13,14 +13,14 @@ Resumen: Avelina, una mujer de 65 años, se apuntaa clases de informática y des
 
 - Personaje: Hackvelina. 65 años. Le encanta saber todo sobre las personas de su entorno. No tiene pelos en la lengua. Es muy observadora y no se le escapa nada.
 
-- Historia: 
+- Historia: A Hackvelina se le ha estropeado el routter y no puede seguir navegando por Internet. Necesita de tu ayuda para arreglarlo. Para ello, te pedirá entrar en su casa.
 
-- Conflicto: 
-
-
+- Conflicto: Lo que piensas que es una ama de casa de barrio, es en realidad una Hacker amateur. Te contará muchos secretos del barrio y tambien te pedirá toda la información que tú sepas. 
 
 
-- ChatBot:  
+
+
+- ChatBot:  @Hackvelinabot  
 
 - Banner:  
 
@@ -31,9 +31,8 @@ Resumen: Avelina, una mujer de 65 años, se apuntaa clases de informática y des
 
 
 Autores: 
-- :man: 
-- :woman:
-- :woman: 
+- :man: Francisco José Calvo Moro
+- :woman: Lucía Iglesias Pascual
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
