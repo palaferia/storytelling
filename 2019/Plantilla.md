@@ -1,9 +1,8 @@
-# Proyecto H1_SOLO
+# Proyecto H3_PALAFERIA
 
 ![](https://pbs.twimg.com/profile_images/705223576945700864/FuC-WWlc_400x400.jpg)
 
-Nombre del Equipo: :blue_heart:   :blue_heart:
-
+Nombre del Equipo: PALAFERIA
 Proyecto 
 
 Resumen:  
